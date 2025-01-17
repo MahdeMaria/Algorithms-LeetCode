@@ -37,6 +37,7 @@ class Program
 
         int[] result = solution.TwoSum(nums, target);
 
+
         Console.WriteLine($"[{result[0]}, {result[1]}]");
     }
 }
